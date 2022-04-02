@@ -5,5 +5,5 @@
 Scrimba's Password Generator project 
 
 Made use of DOM , for loops , and conditions
-
-Live link: ;
+ 
+[Live link](https://sahildahekar.github.io/Password_Generator/)
